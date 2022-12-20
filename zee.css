@@ -1,0 +1,87 @@
+.banner{
+    background-color: #2D054D;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-form{
+    border: 1px solid #E7E9EB;
+    border-radius: 10px;
+}
+.login-form .btn-primary{
+    background-color: #41096D;
+}
+#btn{
+    display: flex;justify-content: center;align-items: center;padding:10px;background: #41096D;border-radius: 12px;
+}
+#banner-img{
+    width: 65vh;
+}
+
+header{
+    background-color: #FFFFFF;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.side-nav{
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+    height: 90vh;
+    background-color:#FFFFFF; 
+    border-right: 1px solid #C5C5C5;
+}
+.side-nav li a{
+    color: #000;
+    text-decoration: none;
+    display: block;
+    padding: 1rem 1rem;
+    border-radius: 0px 50px 50px 0px;
+    transition: all 0.3s ease-in-out;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+.side-nav li a:hover{
+    background-color: #DCF1F8;
+}
+.main-part{
+    background-color:#FFFFFF;
+}
+.modal-footer a{
+    text-decoration: none;color:#000;margin-right: 10px;
+}
+.crt-icon{
+    display: flex;
+align-items: center;
+padding: 5px 10px;
+gap: 8px;
+
+width: 130.34px;
+height: 40px;
+
+background-color: #41096D;
+border-radius: 36px;
+}
+.flx-1 div{
+    margin-left: 10px;
+}
+.flx-2 div{
+    margin-left: 5px;
+}
+.flx-3 div{
+    margin-left: 35px;
+}
+.link1{
+    color: blue;text-decoration:underline;
+}
+.link2{
+    color: blue;text-decoration:underline;
+}
+.modal-footer a{
+    text-decoration: none;color:#000;margin-right: 10px;
+}
+
+
+
